@@ -20,5 +20,5 @@ Do you want to convert another distance? (yes/no): no
 Program ended.
 
 ## Author
-Name: Sofia Rpse F. Catimbang
+Name: Sofia Rose F. Catimbang
 Section: 8 Rosal
