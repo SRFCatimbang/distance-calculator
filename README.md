@@ -11,7 +11,6 @@
 
 ## Input Needed
 - x
-- a
 
 
 ## Sample Output
